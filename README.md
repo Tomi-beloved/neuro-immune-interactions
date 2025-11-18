@@ -77,5 +77,3 @@ Project sharing
 ## Contributors
 - Tomilayo Fadairo
 - Akinjide Anifowose
-
-("Alzheimer" OR "Parkinson") AND "Homo sapiens" AND "expression profiling" AND ("brain" OR "blood")
