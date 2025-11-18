@@ -51,9 +51,6 @@ queries search on **NCBI GEO**, **PubMed**, or **SRA**:
 ("Parkinson" OR "Parkinson's disease") AND ("Europe" OR "European") AND ("gene expression" OR "transcriptome" OR "RNA-seq")
 ```
 
-### **Gene/Protein Frequency Tracking**
-
-```
 ##  Project Structure
 - **/data** – raw datasets or links  
 - **/scripts** – Python scripts for analysis  
