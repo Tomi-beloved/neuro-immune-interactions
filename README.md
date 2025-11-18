@@ -1,4 +1,4 @@
-**# **Trends in Frequently Studied Genes & Proteins in Alzheimer’s and Parkinson’s Disease Across Europe**
+# **Trends in Frequently Studied Genes & Proteins in Alzheimer’s and Parkinson’s Disease Across Europe**
 
 ## **Project Overview**
 
@@ -54,4 +54,31 @@ queries search on **NCBI GEO**, **PubMed**, or **SRA**:
 ### **Gene/Protein Frequency Tracking**
 
 ```
+##  Project Structure
+- **/data** – raw datasets or links  
+- **/scripts** – Python scripts for analysis  
+- **/results** – plots, tables, output files  
+- **README.md** – documentation
+
+## Tools & Technologies
+Python
+GEOparse
+pandas, numpy
+spaCy/NLTK for text mining
+matplotlib/seaborn for plotting
+
+Power BI
+Regional distribution visualization
+Frequency dashboards
+Trend analysis charts
+
+GitHub
+Version control
+Documentation
+Project sharing
+
+## Contributors
+- Tomilayo Fadairo
+- Akinjide Anifowose
+
 ("Alzheimer" OR "Parkinson") AND "Homo sapiens" AND "expression profiling" AND ("brain" OR "blood")
